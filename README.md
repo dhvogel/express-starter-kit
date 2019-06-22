@@ -20,9 +20,10 @@ $ git push
 
 ## Contents
 
-1. lint tools/basic lint configuration (eslint)
-2. unit test tools (mocha/chai/sinon)
-3. infrastructure (terraform)
-4. CI config (travis.yml)
-5. github issue/pr templates
-6. Dockerfile
+1. basic express-generator source scaffolding (no view included)
+2. lint tools/basic lint configuration (eslint)
+3. unit test tools (mocha/chai/sinon)
+4. infrastructure (terraform)
+5. CI config (travis.yml)
+6. github issue/pr templates
+7. Dockerfile
