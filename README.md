@@ -3,7 +3,7 @@
 This repository aims to ease the process of scaffolding a new express project.
 
 Included is a simple express app and tools that help with application
-development, continuous integration, and deployment.
+development, unit testing, continuous integration, and deployment.
 
 ## Usage
 
@@ -33,4 +33,4 @@ $ git push
 
 ## Who can use this
 
-Anyone who wants to.
+Anyone.
