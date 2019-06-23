@@ -1,10 +1,13 @@
 # express-starter-kit
 
-A lot of my projects are small express applications. This repository aims to ease the process of scaffolding a new express project.
+This repository aims to ease the process of scaffolding a new express project.
+
+Included is a simple express app and tools that help with application
+development, continuous integration, and deployment.
 
 ## Usage
 
-1. Create a repository for your new express project
+1. Create a repository for your new express project.
 
 2.
 
@@ -27,3 +30,7 @@ $ git push
 5. CI config (travis.yml)
 6. github issue/pr templates
 7. Dockerfile
+
+## Who can use this
+
+Anyone who wants to.
