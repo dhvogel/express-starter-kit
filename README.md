@@ -16,8 +16,6 @@ $ git clone https://github.com/dhvogel/express-starter-kit.git
 $ cd express-starter-kit
 $ git remote rm origin
 $ git remote add origin <url of your created repository>
-$ git add .
-$ git commit -am "initial commit"
 $ git push
 ```
 
