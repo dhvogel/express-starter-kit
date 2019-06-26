@@ -28,7 +28,3 @@ $ git push
 5. CI config (travis.yml)
 6. github issue/pr templates
 7. Dockerfile
-
-## Who can use this
-
-Anyone.
